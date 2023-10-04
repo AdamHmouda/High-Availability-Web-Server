@@ -183,3 +183,5 @@ webservers${var.client_name}-${var.environment}-${data.aws_region.current.name
 }
 }
 ```
+
+https://github.com/AdamHmouda/High-Availability-Web-Server
